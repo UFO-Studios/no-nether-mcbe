@@ -1,9 +1,9 @@
 ﻿{
     "format_version": 2,
     "header": {
-        "description": "§rPACK DESCRIPTION | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-        "name": "§1§lAlien's§r §ePack name §4(V1.0.0)§r",
-        "uuid": "UUID1 HERE",
+        "description": "§rStops players from being able to make Nether Portals, and get into The Nether. | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+        "name": "§1§lAlien's§r §eNo Nether §4(V1.0.0)§r",
+        "uuid": "f910b1fb-83a9-4d9f-a38a-d6873e5c5d07",
         "version": [
             1,
             0,
@@ -17,9 +17,9 @@
     },
     "modules": [
         {
-            "description": "§rPACK DESCRIPTION | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
-            "type": "resources | data",
-            "uuid": "UUID2 HERE",
+            "description": "§rStops players from being able to make Nether Portals, and get into The Nether. | §3 © TheAlienDoctor §r| §eDownload from TheAlienDoctor.com §r| §4Version: 1.0.0 §r",
+            "type": "data",
+            "uuid": "66f1becb-6a1d-4df5-90da-fa10e28c5f06",
             "version": [
                 1,
                 0,
